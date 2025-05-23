@@ -9,15 +9,18 @@ tags: [DNAnexus, cloud computing, precision medicine, genomic data, bioinformati
 
 As biomedical research enters the era of big data, cloud computing is becoming a cornerstone of scientific discovery. One standout platform in this landscape is **DNAnexus**, a cloud-based biomedical informatics and data analysis platform that is transforming how researchers store, share, and analyze genomic data.
 
+## ![Cloud workflow example](https://www.dnanexus.com/images/platform-overview@2x.png)
+*Figure 1: Example of a cloud-native genomic analysis workflow using DNAnexus.*
+
 ## What is DNAnexus?
 
-DNAnexus is a cloud platform specifically designed for **genomics and biomedical data analysis**. It provides scalable, secure infrastructure for handling large volumes of genomic and clinical data, enabling real-time collaboration across institutions, researchers, and clinicians.
+DNAnexus is a cloud platform specifically designed for **genomics and biomedical data analysis**. It provides scalable, secure infrastructure for handling large volumes of genomic and clinical data, enabling real-time collaboration across institutions, researchers, and clinicians [1].
 
 Key features include:
 - High-throughput genomic data processing
 - Integration with clinical datasets
 - Custom pipeline creation using CWL/WDL or graphical interfaces
-- Compliance with HIPAA, GDPR, and FDA 21 CFR Part 11
+- Compliance with HIPAA, GDPR, and FDA 21 CFR Part 11 [2]
 
 ## Why Cloud Matters in Biomedicine
 
@@ -31,11 +34,14 @@ Cloud applications like DNAnexus solve this by offering:
 ## Real-World Use Case: Precision Medicine Initiatives
 
 DNAnexus powers national-scale projects such as:
-- **UK Biobank**: Processing and analyzing genomic data from over 500,000 participants.
-- **All of Us Research Program (NIH)**: Supporting personalized medicine by linking genetic, environmental, and lifestyle data.
-- **BioData Catalyst (NHLBI)**: Enabling cardiovascular researchers to work with large clinical and omics datasets.
+- **UK Biobank**: Processing and analyzing genomic data from over 500,000 participants [3].
+- **All of Us Research Program (NIH)**: Supporting personalized medicine by linking genetic, environmental, and lifestyle data [4].
+- **BioData Catalyst (NHLBI)**: Enabling cardiovascular researchers to work with large clinical and omics datasets [5].
 
 These initiatives use DNAnexus to run pipelines for variant detection, genome-wide association studies (GWAS), and even machine learning models for risk prediction — all within a cloud-native environment.
+
+## ![DNAnexus UK Biobank](https://www.dnanexus.com/images/case-studies/ukb-platform.png)
+*Figure 2: DNAnexus platform dashboard showing secure cloud collaboration for UK Biobank.*
 
 ## Challenges and Considerations
 
@@ -49,6 +55,15 @@ Despite its benefits, cloud adoption in biomedicine requires navigating:
 Cloud applications like DNAnexus are enabling **faster, more collaborative, and more scalable biomedical research**. As healthcare continues its digital transformation, platforms like these will play an increasingly central role in **precision medicine, drug discovery, and real-time patient analytics**.
 
 For students, researchers, and health data scientists, understanding how to leverage cloud platforms is now as essential as learning statistics or programming.
+
+---
+
+### References
+1. DNAnexus. [About Us](https://www.dnanexus.com/about)
+2. DNAnexus Security Overview. [HIPAA, GDPR, and 21 CFR Part 11 Compliance](https://www.dnanexus.com/security)
+3. UK Biobank + DNAnexus. [Case Study](https://www.dnanexus.com/customers/uk-biobank)
+4. NIH All of Us. [About the Program](https://allofus.nih.gov/)
+5. NHLBI BioData Catalyst. [Platform Details](https://biodatacatalyst.nhlbi.nih.gov/)
 
 ---
 
