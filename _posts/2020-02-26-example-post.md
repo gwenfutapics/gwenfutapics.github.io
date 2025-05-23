@@ -9,8 +9,8 @@ tags: [DNAnexus, cloud computing, precision medicine, genomic data, bioinformati
 
 As biomedical research enters the era of big data, cloud computing is becoming a cornerstone of scientific discovery. One standout platform in this landscape is **DNAnexus**, a cloud-based biomedical informatics and data analysis platform that is transforming how researchers store, share, and analyze genomic data.
 
-## ![Cloud workflow example](https://www.dnanexus.com/images/platform-overview@2x.png)
-*Figure 1: Example of a cloud-native genomic analysis workflow using DNAnexus.*
+## ![Cloud Workflow for Genomic Data](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Genomics_Data_Workflow.png/800px-Genomics_Data_Workflow.png)
+*Figure 1: General genomic data workflow leveraging cloud-based analysis platforms. Source: Wikimedia Commons*
 
 ## What is DNAnexus?
 
@@ -40,8 +40,8 @@ DNAnexus powers national-scale projects such as:
 
 These initiatives use DNAnexus to run pipelines for variant detection, genome-wide association studies (GWAS), and even machine learning models for risk prediction — all within a cloud-native environment.
 
-## ![DNAnexus UK Biobank](https://www.dnanexus.com/images/case-studies/ukb-platform.png)
-*Figure 2: DNAnexus platform dashboard showing secure cloud collaboration for UK Biobank.*
+## ![DNAnexus Example Use](https://www.ga4gh.org/wp-content/uploads/DNAnexus_Use_Case.png)
+*Figure 2: DNAnexus use case in a global genomic research project. Source: GA4GH*
 
 ## Challenges and Considerations
 
