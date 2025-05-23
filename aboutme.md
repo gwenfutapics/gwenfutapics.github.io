@@ -9,7 +9,7 @@ My name is Hassan Berry, currently based in Barcelona. I am passionate about dat
 ### Education
 
 - Bachelor's degree in Automation and Industrial IT, Institut Supérieur des Études Technologiques de Sousse, Tunisia (2020 - 2023)
-- Master's degree in Health Data Science, Universitat Rovira i Virgili (2020 - Present)
+- Master's degree in Health Data Science, Universitat Rovira i Virgili (2024- Present)
 
 ### Experience
 
