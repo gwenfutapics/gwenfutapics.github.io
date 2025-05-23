@@ -4,14 +4,13 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Hassan Berry, currently based in Barcelona. I am passionate about data analysis and electrical engineering, with a strong interest in leveraging data-driven insights to solve complex problems. Have a look at my background below!
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Bachelor's degree in Automation and Industrial IT, Institut Supérieur des Études Technologiques de Sousse, Tunisia (2020 - 2023)
+- Master's degree in Health Data Science, Universitat Rovira i Virgili (2020 - Present)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+
+- Junior Data Analyst (Remote), Orbitcall FZE (2023 - 2024)
